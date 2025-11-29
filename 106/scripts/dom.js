@@ -15,3 +15,4 @@ function howAreYou() {
 window.onload = howAreYou;// execute the function when the page loads -
 // this means that i wait until the html and the css are loaded before i 
 // execute the javascript
+// this is important when you want to manipulate the dom
